@@ -1,0 +1,7 @@
+print("SQUARE GENERATOR")
+l = int(input("Please input the lenght of l: "))
+L = int(input("Please input the lenght of L: "))
+print("\n"*3)        
+print("+" + "-" * l + "+")
+print(("|" + " "* l + "|\n")* L,end="")
+print("+" + "-" * l + "+")
