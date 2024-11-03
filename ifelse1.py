@@ -6,7 +6,7 @@ print("\n"*4)
 if a == b:
     print("Let's go to the park!")
 elif a == c:
-    print("Fuck it!")
+    print("I am sad!")
 else:
     print("Wrong answer typed!")
 
